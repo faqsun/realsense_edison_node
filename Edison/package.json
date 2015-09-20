@@ -1,0 +1,13 @@
+{
+  "name": "edisonconnect",
+  "description": "test",
+  "version": "0.0.0",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+        "socket.io-client":"latest"; // add this script
+}
+
+}
